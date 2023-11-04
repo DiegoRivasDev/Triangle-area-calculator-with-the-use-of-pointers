@@ -1,4 +1,4 @@
-# Triangle-area-calculator-with-the-use-of-pointers
+# Triangle area calculator with the use of pointers
 A simple calculator designed for the calculation of the area of a triangle, consists of the use of pointers as practice.
 
 
